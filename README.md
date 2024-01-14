@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanjanaReddy2005
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web Development, Machine Learning, Reinforcement Learning, Competitive Programming, DSA
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ML Based Projects, Development.
 - 📫 How to reach me ...
 
 <!---
